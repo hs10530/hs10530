@@ -1,7 +1,7 @@
 
 
 <!--
-**hs10350/hs10350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hs10530/hs10530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hello, I'm @hs10350
+## 👋 Hello, I'm @hs10530
 
 I'm a full-time Full-stack & Blockchain developer 👨&zwj;💻 working remotely until 2022 🚀
 
-Grounded and solution-oriented Computer Scientist with a wide variety of professional experiences. Passionate about Full Stack with in MERN, MEVN Stacks. Also passionate blockchain developer with over three years of experience in the industry. Proven ability to develop innovative solutions on the blockchain, build decentralized applications. Offering strong attention to detail and accuracy, excellent problem-solving skills and having a good teamwork spirit. 
+Introducing our talented fullstack developer with expertise in Vue.js, Laravel, Web3, Blockchain, and beyond. With a passion for innovation and a dedication to delivering exceptional solutions, they have a proven track record of success in the industry. Their ability to code with precision and creativity has earned them a reputation as a top performer, and their commitment to continuous learning keeps them at the forefront of the latest trends and technologies. Whether collaborating with a team or working independently, they approach every project with enthusiasm and a focus on achieving outstanding results. With a strong work ethic and an unwavering drive for excellence, this developer is a valuable asset to any organization
 
-![Views](https://komarev.com/ghpvc/?username=hs10350&label=views&color=blue&style=flat)
+![Views](https://komarev.com/ghpvc/?username=hs10530&label=views&color=blue&style=flat)
 
 ## Basic Languages
 <div align="left">
@@ -71,12 +71,12 @@ Grounded and solution-oriented Computer Scientist with a wide variety of profess
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
   
 ## Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hs10350&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hs10530&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hs10350&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hs10530&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hs10350&locale=en&theme=github-dark-blue&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hs10530&locale=en&theme=github-dark-blue&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hs10350&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hs10530&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=hs10350&locale=en&theme=react-dark&radius=5&&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=hs10530&locale=en&theme=react-dark&radius=5&&hide_border=true)
