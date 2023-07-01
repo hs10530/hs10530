@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a full-time Full-stack & Blockchain developer 👨&zwj;💻 working remotely until 2022 🚀
 
-Introducing our talented fullstack developer with expertise in Vue.js, Laravel, Web3, Blockchain, and beyond. With a passion for innovation and a dedication to delivering exceptional solutions, they have a proven track record of success in the industry. Their ability to code with precision and creativity has earned them a reputation as a top performer, and their commitment to continuous learning keeps them at the forefront of the latest trends and technologies. Whether collaborating with a team or working independently, they approach every project with enthusiasm and a focus on achieving outstanding results. With a strong work ethic and an unwavering drive for excellence, this developer is a valuable asset to any organization
+Introducing our talented fullstack developer with expertise in Vue.js, Laravel, Web3, Blockchain, and beyond. With a passion for innovation and a dedication to delivering exceptional solutions, they have a proven track record of success in the industry. Their ability to code with precision and creativity has earned them a reputation as a top performer, and their commitment to continuous learning keeps them at the forefront of the latest trends and technologies. Whether collaborating with a team or working independently, they approach every project with enthusiasm and a focus on achieving outstanding results. With a strong work ethic and an unwavering drive for excellence, this developer is a valuable asset to any organization.
 
 ![Views](https://komarev.com/ghpvc/?username=hs10530&label=views&color=blue&style=flat)
 
